@@ -18,7 +18,45 @@
 
 ### Out of the Curriculum Content
 
-**[working with `const`](notes/learning_extra_features/const.js)**
+**[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**
+
+**[`unary +` operator](notes/learning_extra_features/unary+.js)**
+
+**[`ternary` operator](notes/learning_extra_features/ternary.js)**
+
+**[`console.log()`](notes/learning_extra_features/console.log.js)**
+
+**[`const`](notes/learning_extra_features/const.js)**
+
+**[`switch` statement](notes/learning_extra_features/switch.js)**
+
+**[string interpolation](notes/learning_extra_features/string_interpolation.js)**
+
+
+<!-- **[`String.split()`](notes/learning_extra_features/const.js)**
+
+**[`Object.assign()`](notes/learning_extra_features/const.js)**
+
+**[using `Array.slice()` to copy an array](notes/learning_extra_features/const.js)**
+
+**[using `Object.spread`](notes/learning_extra_features/const.js)**
+
+**[using variables as keys in Objects](notes/learning_extra_features/const.js)**
+
+**[using `Object.entries()`](notes/learning_extra_features/const.js)**
+
+**[using `Object.values()`](notes/learning_extra_features/const.js)**
+
+**[using `Array.map()`](notes/learning_extra_features/const.js)**
+
+**[using `Array.reduce()`](notes/learning_extra_features/const.js)**
+
+**[using `Array.filter()`](notes/learning_extra_features/const.js)**
+
+**[using `Array.sort()`](notes/learning_extra_features/const.js)**
+
+**[using `Object.fromEntries()`](notes/learning_extra_features/const.js)** -->
+
 
 ### Other Helpful Resources
 

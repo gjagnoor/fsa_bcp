@@ -30,7 +30,13 @@
 
 **[`switch` statement](notes/learning_extra_features/switch.js)**
 
-**[string interpolation](notes/learning_extra_features/string_interpolation.js)**
+**[string interpolation](notes/learning_extra_features/string_interpolation.js)** 
+
+**[logical `||`](notes/learning_extra_features/string_interpolation.js)**
+
+**[logical `&&`](notes/learning_extra_features/string_interpolation.js)** 
+
+
 
 
 <!-- **[`String.split()`](notes/learning_extra_features/const.js)**

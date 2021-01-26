@@ -24,7 +24,13 @@
 
 [Repl.it](https://repl.it/)
 
-[Codewars](https://www.codewars.com/)
+#### For more practice: 
+
+[Codewars](https://www.codewars.com/) 
+
+[Edabit](https://edabit.com/)
+
+[LeetCode](https://leetcode.com/)
 
 
 

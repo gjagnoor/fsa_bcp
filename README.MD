@@ -16,6 +16,10 @@
 
 **[Lecture Slides](notes/02_loopsAndDebugging/02.Loops-and-Debugging.pdf)**
 
+### Out of the Curriculum Content
+
+**[Extra Features](learning_extra_features/)**
+
 ### Other Helpful Resources
 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

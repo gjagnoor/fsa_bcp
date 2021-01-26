@@ -18,7 +18,7 @@
 
 ### Out of the Curriculum Content
 
-**[Extra Features](notes/learning_extra_features)**
+**[working with `const`](notes/learning_extra_features/const.js)**
 
 ### Other Helpful Resources
 

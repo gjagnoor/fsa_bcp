@@ -36,6 +36,7 @@
 
 **[logical `&&`](notes/learning_extra_features/string_interpolation.js)** 
 
+**[remainder operator `%` and `modulo` operator](notes/learning_extra_features/remainder_and_modulo.js)** 
 
 
 

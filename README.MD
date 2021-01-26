@@ -18,7 +18,7 @@
 
 ### Out of the Curriculum Content
 
-**[Extra Features](notes/learning_extra_features/)**
+**[Extra Features](notes/learning_extra_features)**
 
 ### Other Helpful Resources
 

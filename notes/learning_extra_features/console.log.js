@@ -9,7 +9,8 @@ function sumNums (num1, num2) {
 
 // sumNums(2,1);
 
-let result = sumNums(2,1);
+// you can store result from a function execution in variables
+let result = sumNums(2,1); 
 let result2 = sumNums(2,3);
 
-console.log(result, result2);
+console.log(result, result2); // you can log 

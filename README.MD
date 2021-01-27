@@ -16,6 +16,14 @@
 
 **[Lecture Slides](notes/02_loopsAndDebugging/02.Loops-and-Debugging.pdf)**
 
+### 03 - Coercion and Truthiness 
+
+<!-- **[Live Lecture 1](https://youtu.be/jIzFkVGaBus)**
+
+**[Live Lecture 2](https://youtu.be/FemXXMuEksQ)** -->
+
+**[Lecture Slides](notes/03_coercion-and-truthiness/03.-Coercion-and-Truthiness.pdf)**
+
 ### Out of the Curriculum Content
 
 **[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**

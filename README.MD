@@ -10,9 +10,9 @@
 
 ### 02 - Loops and Debugging 
 
-<!-- **[Live Lecture](https://youtu.be/siba3WNj2vg)**
+**[Live Lecture 1](https://youtu.be/jIzFkVGaBus)**
 
-**[Live Solutions](https://youtu.be/428qNkezyVw)** -->
+**[Live Lecture 2](https://youtu.be/FemXXMuEksQ)**
 
 **[Lecture Slides](notes/02_loopsAndDebugging/02.Loops-and-Debugging.pdf)**
 

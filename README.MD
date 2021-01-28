@@ -18,9 +18,7 @@
 
 ### 03 - Coercion and Truthiness 
 
-<!-- **[Live Lecture 1](https://youtu.be/jIzFkVGaBus)**
-
-**[Live Lecture 2](https://youtu.be/FemXXMuEksQ)** -->
+**[Live Lecture and Solution](https://youtu.be/tfoRWsvmE0o)**
 
 **[Lecture Slides](notes/03_coercion-and-truthiness/03.-Coercion-and-Truthiness.pdf)**
 

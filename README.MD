@@ -22,6 +22,12 @@
 
 **[Lecture Slides](notes/03_coercion-and-truthiness/03.-Coercion-and-Truthiness.pdf)**
 
+### 04 - REACTO 
+
+**[Live Lecture and Solution](https://youtu.be/tfoRWsvmE0o)**
+
+**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+
 ### Out of the Curriculum Content
 
 **[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**

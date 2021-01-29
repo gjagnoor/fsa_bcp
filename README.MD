@@ -18,13 +18,13 @@
 
 ### 03 - Coercion and Truthiness 
 
-**[Live Lecture and Solution](https://youtu.be/tfoRWsvmE0o)**
+**[Live Lecture and Solution](https://youtu.be/VCNHYabth3c)**
 
 **[Lecture Slides](notes/03_coercion-and-truthiness/03.-Coercion-and-Truthiness.pdf)**
 
 ### 04 - REACTO 
 
-**[Live Lecture and Solution](https://youtu.be/tfoRWsvmE0o)**
+**[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
 
 **[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
 

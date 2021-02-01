@@ -28,6 +28,30 @@
 
 **[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
 
+### 05 - Scope
+
+**[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
+
+**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+
+### 06 - Arrays 1
+
+**[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
+
+**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+
+### 07 - Arrays 2
+
+**[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
+
+**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+
+### 08 - REACTO: Sudoku Validator
+
+**[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
+
+**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+
 ### Out of the Curriculum Content
 
 **[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**

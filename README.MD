@@ -32,25 +32,23 @@
 
 **[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
 
-**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+**[Lecture Slides](notes/05_scope/05.%20Scope.pdf)**
 
 ### 06 - Arrays 1
 
 **[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
 
-**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+**[Lecture Slides](notes/06_arrays_1/06.%20Arrays%201.pdf)**
 
 ### 07 - Arrays 2
 
 **[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
 
-**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
+**[Lecture Slides](notes/07_arrays_2/07.%20Arrays%202.pdf)**
 
 ### 08 - REACTO: Sudoku Validator
 
 **[Live Lecture and Solution](https://youtu.be/aukYWxoqXtg)**
-
-**[Lecture Slides](notes/04-REACTO/04.-BCP-REACTO.pdf)**
 
 ### Out of the Curriculum Content
 

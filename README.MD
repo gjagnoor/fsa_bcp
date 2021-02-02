@@ -30,6 +30,8 @@
 
 ### 05 - Scope
 
+**[Live Lecture](https://youtu.be/yaoOTAapTrw)**
+
 **[Lecture Slides](notes/05_scope/05.%20Scope.pdf)**
 
 ### 06 - Arrays 1

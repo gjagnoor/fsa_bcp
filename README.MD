@@ -36,6 +36,8 @@
 
 ### 06 - Arrays 1
 
+**[Live Lecture](https://youtu.be/h5Mi4gLIK0A)**
+
 **[Lecture Slides](notes/06_arrays_1/06.%20Arrays%201.pdf)**
 
 ### 07 - Arrays 2

@@ -42,6 +42,8 @@
 
 ### 07 - Arrays 2
 
+**[Live Lecture](https://youtu.be/fP-JW5Lw1MQ)**
+
 **[Lecture Slides](notes/07_arrays_2/07.%20Arrays%202.pdf)**
 
 ### 08 - REACTO: Sudoku Validator

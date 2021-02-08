@@ -48,6 +48,10 @@
 
 ### 08 - REACTO: Sudoku Validator
 
+### 09 - Objects
+
+**[Lecture Slides](notes/09_Objects/09.%20Objects.pdf)**
+
 ### Out of the Curriculum Content
 
 **[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**

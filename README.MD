@@ -50,6 +50,8 @@
 
 ### 09 - Objects
 
+**[Live Lecture](https://youtu.be/WgY4YySuX98)**
+
 **[Lecture Slides](notes/09_Objects/09.%20Objects.pdf)**
 
 ### Out of the Curriculum Content

@@ -50,9 +50,13 @@
 
 ### 09 - Objects
 
-**[Live Lecture](https://youtu.be/WgY4YySuX98)**
+**[Live Lecture](https://youtu.be/WgY4YySuX98)**.
 
 **[Lecture Slides](notes/09_Objects/09.%20Objects.pdf)**
+
+### 10-RecursionI
+
+**[Lecture Slides](notes/10-RecursionI/10.%20Recursion%20I.pdf)**
 
 ### Out of the Curriculum Content
 

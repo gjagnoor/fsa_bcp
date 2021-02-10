@@ -56,6 +56,8 @@
 
 ### 10-RecursionI
 
+**[Live Lecture and Review](https://youtu.be/QHRerJrcwKU)**
+
 **[Lecture Slides](notes/10-RecursionI/10.%20Recursion%20I.pdf)**
 
 ### Out of the Curriculum Content

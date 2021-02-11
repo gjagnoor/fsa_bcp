@@ -60,6 +60,10 @@
 
 **[Lecture Slides](notes/10-RecursionI/10.%20Recursion%20I.pdf)**
 
+### 11-RecursionII
+
+**[Lecture Slides](notes/11-RecursionII/11.%20Recursion%20II.pdf)**
+
 ### Out of the Curriculum Content
 
 **[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**

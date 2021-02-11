@@ -62,6 +62,8 @@
 
 ### 11-RecursionII
 
+**[Live Lecture and Review](https://youtu.be/OiVCXn62kAA)**
+
 **[Lecture Slides](notes/11-RecursionII/11.%20Recursion%20II.pdf)**
 
 ### Out of the Curriculum Content

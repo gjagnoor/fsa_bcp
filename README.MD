@@ -66,6 +66,10 @@
 
 **[Lecture Slides](notes/11-RecursionII/11.%20Recursion%20II.pdf)**
 
+### 12-Next Steps
+
+**[Lecture Slides](notes/12-NextSteps/12.%20Next%20Steps.pdf)**
+
 ### Out of the Curriculum Content
 
 **[`nullish coalescing` operator](notes/learning_extra_features/nullish_coalescing.js)**
